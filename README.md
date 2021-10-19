@@ -3,7 +3,7 @@
 - 💼 Lead Software Engineer at [Paperchain](https://paperchain.io/)
 
 
-- ❤️ I love writing code, and building fun experiments on type-level
+- ❤️ I love writing code, and building fun experiments on all levels
 
 - 💬 Ask me about anything [here](https://github.com/randy1burrell/profile/issues)
 

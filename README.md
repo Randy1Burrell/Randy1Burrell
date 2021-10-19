@@ -21,5 +21,5 @@
 Plus many more
 
 
-| <a href="https://github.com/randy1burrell/profile"><img align="center" src="https://github-readme-stats.vercel.app/api?username=randy1burrell&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Randy's Github Stats" /></a> | <a href="https://github.com/randy1burrell/profile"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=randy1burrell&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/randy1burrell/profile"><img align="center" src="https://github-readme-stats.vercel.app/api?username=randy1burrell&count_private=true&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Randy's Github Stats" /></a> | <a href="https://github.com/randy1burrell/profile"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=randy1burrell&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |

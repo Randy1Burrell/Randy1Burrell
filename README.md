@@ -32,10 +32,11 @@ and efforts remain cutting-edge and highly competitive.
 - Financial Services
 - Healthcare.
 
+**Links and Contact Info**
+
 - Please take a look at my portfolio here on [Github](https://github.com/randy1burrell)
 
-
-- Feel free to reach out to me directly on [LinkedIn](https://www.linkedin.com/in/randyburrell/) or at rb@randyburrell.info
+- Feel free to reach out to me directly on [LinkedIn](https://www.linkedin.com/in/randyburrell/) or at github@randyburrell.info
 
 - 💬 Ask me about anything [here](https://github.com/randy1burrell/profile/issues)
 

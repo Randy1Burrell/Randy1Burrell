@@ -7,10 +7,14 @@ operational efficiency and scalability. Successful in building and launching
 numerous applications and systems to support health, fintech, artificial
 intelligence, blockchain and cryptocurrency markets. Passionate about staying on
 top of emerging trends and industry best practices to ensure engineering teams
-and efforts remain cutting-edge and highly competitive.  Areas of Expertise:
+and efforts remain cutting-edge and highly competitive.
+
+Areas of Expertise:
+
 Software Engineering, Executive Leadership, Mentoring, Interface Design &
 Development, Project Management Blockchain, Coding & Programming, Vendor
 Management, Negotiation, Artificial Intelligence (AI), Machine Learning/Vision
+
 Industry Experience: IT, Software Development, Cryptocurrency, Start-ups,
 Financial Services, Healthcare.
 

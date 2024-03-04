@@ -1,4 +1,4 @@
-**About me**
+# **About me**
 
 VP of Engineering with 15+ years of experience leading high-performing teams in
 delivering innovative technical solutions to drive business growth. Skilled in
@@ -9,14 +9,28 @@ intelligence, blockchain and cryptocurrency markets. Passionate about staying on
 top of emerging trends and industry best practices to ensure engineering teams
 and efforts remain cutting-edge and highly competitive.
 
-Areas of Expertise:
+**Areas of Expertise:**
 
-Software Engineering, Executive Leadership, Mentoring, Interface Design &
-Development, Project Management Blockchain, Coding & Programming, Vendor
-Management, Negotiation, Artificial Intelligence (AI), Machine Learning/Vision
+- Software Engineering
+- Executive Leadership
+- Mentoring
+- Interface Design & Development
+- Project Management Blockchain
+- Coding & Programming
+- Vendor Management
+- Negotiation
+- Artificial Intelligence (AI)
+- Machine Learning/Vision
 
-Industry Experience: IT, Software Development, Cryptocurrency, Start-ups,
-Financial Services, Healthcare.
+**Industry Experience:**
+
+- Machine Learning/Vision
+- IT
+- Software Development
+- Cryptocurrency
+- Start-ups
+- Financial Services
+- Healthcare.
 
 - Please take a look at my portfolio here on [Github](https://github.com/randy1burrell)
 
